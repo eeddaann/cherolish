@@ -1,5 +1,5 @@
 # Tremouse
-## open source tremor filtering mouse
+## *open source tremor filtering mouse*
 
 ## Installation guide:
 
