@@ -1,4 +1,4 @@
-# Tremouse
+# Cherolish
 ## *open source tremor filtering mouse*
 ### our database:
 <iframe src="https://search-cherolish-elastic-kjxjy7daaejupzxjyv442lvip4.eu-west-1.es.amazonaws.com/_plugin/kibana/app/kibana#/visualize/edit/a55582b0-49d0-11e8-9141-134b6d19df4e?embed=true&_g=()&_a=(filters:!(),linked:!f,query:(language:lucene,query:''),uiState:(),vis:(aggs:!((enabled:!t,id:'1',params:(customLabel:'Number+of+samples'),schema:metric,type:count)),params:(addLegend:!f,addTooltip:!t,metric:(colorSchema:'Green+to+Red',colorsRange:!((from:0,to:10000)),invertColors:!f,labels:(show:!t),metricColorMode:None,percentageMode:!f,style:(bgColor:!f,bgFill:%23000,fontSize:61,labelColor:!f,subText:''),useRanges:!f),type:metric),title:'number+of+samples',type:metric))" height="600" width="800"></iframe>
@@ -8,7 +8,7 @@
 
 ### Via Github: 
 Type on the terminal:
-``` git clone https://github.com/eeddaann/termouse.git```
+``` git clone https://github.com/eeddaann/cherolish.git```
 Install the required packeges using:
 ``` pip install -f requirements.txt```
 Run using:
